@@ -1,5 +1,18 @@
 # AWS
 
+## [Exam](./Exam/README.md)
+
+# Security
+* 공동책임 모델
+
+# [IAM](https://whchoi98.gitbook.io/aws-iam/)
+* 사용자
+* 정책 (Policy)
+* 그룹
+* 역할
+
+
+
 # Training
 
 * https://aws.amazon.com/ko/
